@@ -1,0 +1,5 @@
+cleaned_data.csv
+logistic_regression_pipeline.joblib
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
